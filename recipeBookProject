@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        #apple-pie {
+            color:rgb(250, 32, 32);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Chef's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/">Apple Pie Recipe #1</a></li>
+        </ol>
+        
+        <h2 id="apple-pie">Apple Pie</h2>
+        
+        <ul>
+            <li>Time: 45 min</li>
+            <li>Serves: 6 porsion</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                    <td>white sugar</td>
+                    <td>     1/2 cup  </td>
+                </tr>
+                <tr>
+                    <td>brown sugar</td>
+                    <td>1/2 cup </td>
+                </tr>
+                <tr>
+                    <td>water</td>
+                    <td>1/4 cup </td>
+                </tr>
+                <tr>
+                    <td>butter</td>
+                    <td>1/2 cup </td>
+                </tr>
+                <tr>
+                    <td>apples</td>
+                    <td>  4</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer.
+</p>
+<p><strong>Step2: </strong>Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.</p>
+<p><strong>Step3: </strong>Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.</p>
+        
+    <p><em>Source: <a href="https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
